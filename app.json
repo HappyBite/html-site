@@ -1,0 +1,7 @@
+{
+  "name": "html-site",
+  "description": "An app with static html",
+  "repository": "https://github.com/HappyBite/html-site.git",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["html"]
+}
