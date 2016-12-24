@@ -8,6 +8,9 @@
     "type": "git",
     "url": "https://github.com/HappyBite/html-site.git"
   },
+  "scripts": {
+    "start": "node server"
+  },
   "author": "Gabriel Lantz <cms.io>",
   "license": "MIT",
   "dependencies": {
